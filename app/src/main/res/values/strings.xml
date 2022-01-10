@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">body_mass_arnau</string>
+    <string name="app_name">Body Mass</string>
+    <string name="relative_fat_mass">Relative Fat Mass</string>
+    <string name="wan_der_vael">Wan der Vael</string>
+    <string name="lorentz">Lorentz Formula</string>
+    <string name="creff">Creff Formula</string>
+
+    <string name="button">CALCULATE</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="broad">Broad</string>
+
+    <string name="height">Height (cm)</string>
+    <string name="waist">Waist circumference (cm)</string>
+    <string name="age">Age (in years)</string>
 </resources>
